@@ -1,9 +1,8 @@
 /**
- * Autor: Rodrigo
- * Fecha: 19 jun 2024
+ * Hola Mundo
  */
 public class Hola {
 	public static void main(String[] args) {
-		System.out.println("Hola Mundo :)");
+		System.out.println("Probando Git local :)");
 	}
 }
